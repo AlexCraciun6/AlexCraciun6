@@ -7,6 +7,7 @@ Computer Science student
 Enthusiastic coder exploring the realms of tech 🌐 | Constantly learning, coding, and pushing boundaries | On a mission to turn ideas into code and make a positive impact 💻✨
 
 * 🌍  I'm based in Cluj-Napoca, Cluj, Romania
+* 🖥️  See my portfolio at [MyPortfolio](http://alexcraciun6.github.io/)
 * ✉️  You can contact me at [alexcraciun03@gmail.com](mailto:alexcraciun03@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
