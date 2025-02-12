@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexandru Craciun
 =========================================================================================================================================
 
-Computer Science student
+Junior Software Engineer and Computer Science student
 ------------------------
 
 Enthusiastic coder exploring the realms of tech 🌐 | Constantly learning, coding, and pushing boundaries | On a mission to turn ideas into code and make a positive impact 💻✨
